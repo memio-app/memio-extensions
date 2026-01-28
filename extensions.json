@@ -7,7 +7,7 @@
     "desc": "A9VG电玩部落,中国电玩及主机游戏行业的领先平台,致力于为玩家报道最新主机游戏独家资讯，PS4和Xbox One等主机电视游戏攻略,更有A9VG论坛为电玩主机游戏爱好者提供交流平台。",
     "baseUrl": "https://www.a9vg.com",
     "js": "https://r2.memio.site/article/a9vg.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/a9vg.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/a9vg.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -20,7 +20,7 @@
     "desc": "巴哈姆特電玩資訊站為台灣最大遊戲網站，提供最新遊戲新聞、專題報導、電玩展資訊、遊戲攻略、玩家心得、電玩直播等豐富內容。",
     "baseUrl": "https://www.gamer.com.tw",
     "js": "https://r2.memio.site/article/bahamut.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/bahamut.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/bahamut.ts",
     "lang": "zh-tw",
     "author": "memio",
     "version": 1
@@ -33,7 +33,7 @@
     "desc": "BBC News",
     "baseUrl": "https://www.bbc.com",
     "js": "https://r2.memio.site/article/bbc.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/bbc.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/bbc.ts",
     "lang": "en",
     "author": "memio",
     "version": 1
@@ -46,7 +46,7 @@
     "desc": "哔哩哔哩-中国的年轻人文化社区",
     "baseUrl": "https://www.bilibili.com",
     "js": "https://r2.memio.site/article/bilibili_opus.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/bilibili_opus.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/bilibili_opus.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -59,7 +59,7 @@
     "desc": "Social media as it should be. Find your community among millions of users, unleash your creativity, and have some fun again.",
     "baseUrl": "https://bsky.app",
     "js": "https://r2.memio.site/article/bsky.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/bsky.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/bsky.ts",
     "lang": "en",
     "author": "memio",
     "version": 1
@@ -98,7 +98,7 @@
     "desc": "DLNews is a news portal providing the latest news and updates from Dalian, China.",
     "baseUrl": "https://www.dlnews.com",
     "js": "https://r2.memio.site/article/dlnews.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/dlnews.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/dlnews.ts",
     "lang": "en",
     "author": "memio",
     "version": 1
@@ -111,7 +111,7 @@
     "desc": "提供图书、电影、音乐唱片的推荐、评论和价格比较，以及城市独特的文化生活。",
     "baseUrl": "https://www.douban.com",
     "js": "https://r2.memio.site/article/douban.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/douban.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/douban.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -124,7 +124,7 @@
     "desc": "Epic Games Store ",
     "baseUrl": "https://store.epicgames.com",
     "js": "https://r2.memio.site/article/epicgames.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/epicgames.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/epicgames.ts",
     "lang": "en",
     "author": "memio",
     "version": 1
@@ -137,7 +137,7 @@
     "desc": "ファミ通.comは、ゲーム情報を中心にエンタメ情報を発信する総合メディアサイトです。最新ニュース、レビュー、攻略情報、インタビュー、動画など、多彩なコンテンツを提供しています。",
     "baseUrl": "https://www.famitsu.com",
     "js": "https://r2.memio.site/article/famitsu.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/famitsu.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/famitsu.ts",
     "lang": "ja",
     "author": "memio",
     "version": 1
@@ -163,7 +163,7 @@
     "desc": "電玩 x 科技 x 動漫 x 影劇 x 紳士 最棒的 Gaming 生活充電站，For Gamers.",
     "baseUrl": "https://www.4gamers.com.tw",
     "js": "https://r2.memio.site/article/gamers4.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/gamers4.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/gamers4.ts",
     "lang": "zh-tw",
     "author": "memio",
     "version": 1
@@ -176,7 +176,7 @@
     "desc": "Hugging Face is an AI community and platform that provides tools and resources for building, training, and deploying machine learning models.",
     "baseUrl": "https://huggingface.co",
     "js": "https://r2.memio.site/article/huggingface_models.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/huggingface_models.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/huggingface_models.ts",
     "lang": "en",
     "author": "memio",
     "version": 1
@@ -189,7 +189,7 @@
     "desc": "Indienova is a community and platform dedicated to indie game developers and enthusiasts in China.",
     "baseUrl": "https://indienova.com",
     "js": "https://r2.memio.site/article/indienova.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/indienova.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/indienova.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -202,7 +202,7 @@
     "desc": "角編新聞台",
     "baseUrl": "https://www.kadokawa.com.tw",
     "js": "https://r2.memio.site/article/kadokawa_blog.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/kadokawa_blog.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/kadokawa_blog.ts",
     "lang": "zh-tw",
     "author": "memio",
     "version": 1
@@ -241,7 +241,7 @@
     "desc": "标志情报局24小时提供全球最新最全的新标志、新LOGO、标志新闻、标志资讯、LOGO新闻、LOGO设计欣赏、标志揭晓、国外LOGO设计欣赏等情报资讯。",
     "baseUrl": "https://www.logonews.cn",
     "js": "https://r2.memio.site/article/logonews.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/logonews.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/logonews.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -254,7 +254,7 @@
     "desc": "Nature is a weekly international journal publishing the finest peer-reviewed research in all fields of science and technology.",
     "baseUrl": "https://www.nature.com",
     "js": "https://r2.memio.site/article/nature.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/nature.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/nature.ts",
     "lang": "en",
     "author": "memio",
     "version": 1
@@ -280,7 +280,7 @@
     "desc": "A collection of rare and historical photographs from around the world.",
     "baseUrl": "https://www.rarehistoricalphotos.com",
     "js": "https://r2.memio.site/article/rare_historical_photos.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/rare_historical_photos.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/rare_historical_photos.ts",
     "lang": "en",
     "author": "memio",
     "version": 1
@@ -293,7 +293,7 @@
     "desc": "小红书 - 中国的社交媒体平台，分享生活方式和购物体验",
     "baseUrl": "https://www.xiaohongshu.com",
     "js": "https://r2.memio.site/article/rednote.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/rednote.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/rednote.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -306,7 +306,7 @@
     "desc": "Reuters",
     "baseUrl": "https://www.reuters.com",
     "js": "https://r2.memio.site/article/reuters.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/reuters.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/reuters.ts",
     "lang": "en",
     "author": "memio",
     "version": 1
@@ -345,7 +345,7 @@
     "desc": "华尔街见闻是中国领先的全球财经资讯平台，提供及时、专业的财经新闻、深度分析和市场数据，帮助用户洞察全球经济动态，把握投资机会。",
     "baseUrl": "https://wallstreetcn.com",
     "js": "https://r2.memio.site/article/wallstreetcn.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/wallstreetcn.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/wallstreetcn.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -358,7 +358,7 @@
     "desc": "Web3Caff - Your Daily Dose of Web3 News and Insights",
     "baseUrl": "https://www.web3caff.com",
     "js": "https://r2.memio.site/article/web3caff.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/web3caff.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/web3caff.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -371,7 +371,7 @@
     "desc": "《8视界新闻网》提供最全面的中文新闻报道，聚焦新加坡及全球热点和社会话题，带你了解新加坡、东南亚、中港台和国际时事。点击浏览 8world News，查阅今日新加坡及全球动态。",
     "baseUrl": "https://www.8world.com",
     "js": "https://r2.memio.site/article/world8.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/world8.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/world8.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -384,7 +384,7 @@
     "desc": "《意林》是由长春市文学艺术界联合会主办的知名文摘期刊，自2003年创刊至今，《意林》以其故事丰富、内容健康和亲和力强备受教师、家长推崇和万千读者喜爱。《意林》杂志网整理收集了《意林》2011年到2024年刊次的电子版本文章！",
     "baseUrl": "https://www.yilinzazhi.com",
     "js": "https://r2.memio.site/article/yilinzazhi.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/yilinzazhi.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/yilinzazhi.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -397,7 +397,7 @@
     "desc": "月幕Galgame, 属于中国的美少女游戏交流平台！从资讯到评测、wiki到感想、CG到表情包，你想要的全都在这里，来和我们一起打造更适合Galgame爱好者的全生态！",
     "baseUrl": "https://www.ymgal.games",
     "js": "https://r2.memio.site/article/ymgal.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/ymgal.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/ymgal.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -410,7 +410,7 @@
     "desc": "语雀是面向个人和团队的知识创作与分享平台，帮助你更高效地沉淀和传递知识。",
     "baseUrl": "https://www.yuque.com",
     "js": "https://r2.memio.site/article/yuque.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/yuque.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/yuque.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -423,7 +423,7 @@
     "desc": "知乎，是一个真实的网络问答社区，在这里你可以提出问题，分享知识、经验和见解。",
     "baseUrl": "https://www.zhihu.com",
     "js": "https://r2.memio.site/article/zhihu_zhuanlan.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/article/zhihu_zhuanlan.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/article/zhihu_zhuanlan.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -436,7 +436,7 @@
     "desc": "在线电台网 - 网络广播电台免费收听丨电台之家提供电台广播节目、资讯，倾力打造大家喜欢的网络收音机视听平台！",
     "baseUrl": "https://www.diantaiwang.com",
     "js": "https://r2.memio.site/audio/diantaiwang.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/audio/diantaiwang.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/audio/diantaiwang.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -462,7 +462,7 @@
     "desc": "小宇宙 - 最受欢迎的播客 APP，海量优质播客节目，随时随地收听。",
     "baseUrl": "https://www.xiaoyuzhoufm.com",
     "js": "https://r2.memio.site/audio/xiaoyuzhoufm.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/audio/xiaoyuzhoufm.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/audio/xiaoyuzhoufm.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -514,7 +514,7 @@
     "desc": "様々なWeb小説を無料で「書ける、読める、伝えられる」、KADOKAWA × はてな によるWeb小説サイトです。ジャンルはファンタジー、SF、恋愛、ホラー、ミステリーなどがあり、二次創作作品も楽し…",
     "baseUrl": "https://kakuyomu.jp",
     "js": "https://r2.memio.site/novel/kakuyomu.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/novel/kakuyomu.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/novel/kakuyomu.ts",
     "lang": "ja",
     "author": "memio",
     "version": 1
@@ -540,7 +540,7 @@
     "desc": "小説家になろうは、日本最大級のオンライン小説投稿サイトです。多様なジャンルの小説が無料で読めます。",
     "baseUrl": "https://yomou.syosetu.com",
     "js": "https://r2.memio.site/novel/syosetu.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/novel/syosetu.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/novel/syosetu.ts",
     "lang": "ja",
     "author": "memio",
     "version": 1
@@ -592,7 +592,7 @@
     "desc": "ArtStation is the leading showcase platform for games, film, media & entertainment artists.",
     "baseUrl": "https://www.artstation.com",
     "js": "https://r2.memio.site/picture/artstation.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/picture/artstation.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/picture/artstation.ts",
     "lang": "en",
     "author": "memio",
     "version": 1
@@ -657,7 +657,7 @@
     "desc": "资讯、资料，舔图、晒图，共同建设一个属于大家的手办模型中文网吧！",
     "baseUrl": "https://www.hpoi.net",
     "js": "https://r2.memio.site/picture/hpoi.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/picture/hpoi.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/picture/hpoi.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -748,7 +748,7 @@
     "desc": "pixiv(ピクシブ)は、作品の投稿・閲覧が楽しめる「イラストコミュニケーションサービス」です。幅広いジャンルの作品が投稿され、ユーザー発の企画やメーカー公認のコンテストが開催されています。",
     "baseUrl": "https://www.pixiv.net",
     "js": "https://r2.memio.site/picture/pixiv.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/picture/pixiv.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/picture/pixiv.ts",
     "lang": "ja",
     "author": "memio",
     "version": 1
@@ -813,7 +813,7 @@
     "desc": "哔哩哔哩-中国的年轻人文化社区。",
     "baseUrl": "https://www.bilibili.com",
     "js": "https://r2.memio.site/video/bilibili_video.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/video/bilibili_video.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/video/bilibili_video.ts",
     "lang": "zh",
     "author": "memio",
     "version": 1
@@ -865,7 +865,7 @@
     "desc": "YouTube is a video sharing service where users can watch, like, share, comment and upload their own videos.",
     "baseUrl": "https://www.youtube.com",
     "js": "https://r2.memio.site/video/youtube.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/video/youtube.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/video/youtube.ts",
     "lang": "en",
     "author": "memio",
     "version": 1
@@ -878,7 +878,7 @@
     "desc": "综艺秀旨在为台湾综艺爱好者提供及时全面的节目主题和来宾信息，各个节目的内容和观点不代表本站立场",
     "baseUrl": "https://www.zyshow.co",
     "js": "https://r2.memio.site/video/zyshow.js",
-    "source": "https://github.com/Moment-Box/extensions/blob/main/app/video/zyshow.ts",
+    "source": "https://github.com/memio-app/memio-extensions/blob/main/app/video/zyshow.ts",
     "lang": "zh-tw",
     "author": "memio",
     "version": 1
