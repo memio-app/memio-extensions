@@ -15,7 +15,7 @@
     OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
     PERFORMANCE OF THIS SOFTWARE.
     ***************************************************************************** */
-    /* global Reflect, Promise, SuppressedError, Symbol, Iterator */
+    /* global Reflect, Promise, SuppressedError, Symbol */
 
 
     function __awaiter(thisArg, _arguments, P, generator) {
@@ -435,8 +435,8 @@
             site.useGuide = `## How to get User Identifier
 1. Open the Bluesky app or website and log in to your account.
 2. Navigate to your profile page.
-3. Look at the URL in the address bar. It should look something like this: https://bsky.app/profile/cpacm.bsky.social.
-4. The part after /profile/ (in this case, cpacm.bsky.social) is your User Identifier.
+3. Look at the URL in the address bar. It should look something like this: https://bsky.app/profile/memio.bsky.social.
+4. The part after /profile/ (in this case, memio.bsky.social) is your User Identifier.
 5. Copy this User Identifier and paste it into the extension settings.
 6. BlueSky authorization is valid for a short period, you should re-login after enter this extension.
 

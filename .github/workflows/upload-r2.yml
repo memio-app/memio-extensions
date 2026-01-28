@@ -1,0 +1,44 @@
+name: Uplaod to R2
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-latest
+    permissions:
+      # Give the default GITHUB_TOKEN write permission to commit and push the changed files back to the repository.
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Use Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - uses: ryand56/r2-upload-action@latest # Can be any release
+      with:
+        r2-account-id: ${{ secrets.R2_ACCOUNT_ID }}
+        r2-access-key-id: ${{ secrets.R2_ACCESS_KEY_ID }}
+        r2-secret-access-key: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+        r2-bucket: extensions
+        source-dir: |
+            dist/article/
+            dist/picture/
+            dist/video/
+            dist/audio/
+            dist/novel/
+            extensions.json
+        # destination-dir: artifacts # Can be anything as long as it is an actual path
+        output-file-url: true # defaults to true
+        multipart-size: 5 # If the file size is greater than the value provided here, then use multipart upload
+        max-retries: 3 # The maximum number of retries it takes to upload a multipart chunk until it moves on to the next part
+        multipart-concurrent: true # Whether to concurrently upload a multipart chunk
+        keep-file-fresh: false # defaults to false
+
+    # - name: Run tests
+    #   run: npm test
+
+
